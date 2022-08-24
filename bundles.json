@@ -7,7 +7,10 @@
         {
             "key": "assets/content/items/mods/scopes/scope_base_trijicon_reap-ir.bundle",
             "dependencyKeys": []
-               
+        },
+        {
+            "key": "assets/content/items/mods/scopes/scope_all_torrey_pines_logic_t12_w_30hz.bundle",
+            "dependencyKeys": []
         }
     ]
 }
