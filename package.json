@@ -1,0 +1,9 @@
+{
+    "name": "ClearThermals",
+    "author": "TheEyeOfAres",
+    "license": "Attribution-ShareAlike 4.0 International",
+    "main": "package.js",
+    "version": "3.2.1",
+    "akiVersion": "3.2.1",
+    "devdependencies": {}
+}
