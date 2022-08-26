@@ -3,7 +3,7 @@
     "author": "TheEyeOfAres",
     "license": "Attribution-ShareAlike 4.0 International",
     "main": "package.js",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "akiVersion": "3.2.1",
     "devdependencies": {}
 }
